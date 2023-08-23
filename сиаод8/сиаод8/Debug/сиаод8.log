@@ -1,0 +1,8 @@
+﻿  сиаод8.cpp
+E:\Visual studio\projects\сиаод8\сиаод8\сиаод8.cpp(17,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\Visual studio\projects\сиаод8\сиаод8\сиаод8.cpp(17,18): warning C4309: инициализация: усечение константного значения
+E:\Visual studio\projects\сиаод8\сиаод8\сиаод8.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Visual studio\projects\сиаод8\сиаод8\сиаод8.cpp(28,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Visual studio\projects\сиаод8\сиаод8\сиаод8.cpp(36,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Visual studio\projects\сиаод8\сиаод8\сиаод8.cpp(47,20): warning C4018: <: несоответствие типов со знаком и без знака
+  сиаод8.vcxproj -> E:\Visual studio\projects\сиаод8\Debug\сиаод8.exe
