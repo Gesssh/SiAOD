@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600855173 source:c:\users\1\desktop\כאבû\ׁטְ־ִ\כב1\כב1\main.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
