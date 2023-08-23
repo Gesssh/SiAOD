@@ -1,0 +1,40 @@
+﻿  Сиаод5.cpp
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(13,2): error C2371: Table: переопределение; различные базовые типы
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(25,14): error C2131: выражение не определяется константой
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(25,14): message : сбой вызван чтением переменной вне срока ее существования
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(25,14): message : см. использование "n"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(28,14): error C3863: тип массива "Table *[n]" является неназначаемым
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(24,23): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(31,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(34,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(40,33): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(51,23): warning C4305: инициализация: усечение из "double" в "float"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(55,35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(69,16): error C2027: использование неопределенного типа "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(70,16): error C2027: использование неопределенного типа "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(80,12): error C2027: использование неопределенного типа "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(81,12): error C2027: использование неопределенного типа "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(83,19): error C2027: использование неопределенного типа "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(84,22): error C2027: использование неопределенного типа "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(89,12): error C2027: использование неопределенного типа "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(100,33): error C2027: использование неопределенного типа "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(101,18): error C2027: использование неопределенного типа "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(123,34): error C2027: использование неопределенного типа "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(123,24): warning C4473: "printf": передано недостаточно аргументов для строки формата
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(123,24): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(123,24): message : отсутствующий вариативный аргумент "1" требуется для строки форматирования "%d"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(124,26): error C2027: использование неопределенного типа "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(137,23): error C2027: использование неопределенного типа "Table"
+E:\Visual studio\projects\Сиаод5\Сиаод5\Сиаод5.cpp(12): message : см. объявление "Table"
